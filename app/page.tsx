@@ -101,7 +101,7 @@ export default function Portfolio() {
                   About
                 </Link>
                 <Link
-                  href="#experience"
+                  href="#projects"
                   className="text-slate-700 hover:text-purple-600 transition-colors font-medium py-2"
                   onClick={closeMobileMenu}
                 >
@@ -278,7 +278,7 @@ export default function Portfolio() {
       </section>
 
       {/* Experience Section */}
-      <section id="experience" className="py-16 px-4">
+      <section id="projects" className="py-16 px-4">
         <div className="container mx-auto max-w-4xl">
           <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mb-12 text-center">Work Experience</h2>
 
